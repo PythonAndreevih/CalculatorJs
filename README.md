@@ -1,2 +1,2 @@
 # Сalculator
-## Пример  [Здесь]([(https://pythonandreevih.github.io/CalculatorJs/)])
+## Пример  [Здесь]([https://pythonandreevih.github.io/CalculatorJs/])
